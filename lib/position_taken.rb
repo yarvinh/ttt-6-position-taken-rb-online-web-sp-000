@@ -8,8 +8,8 @@ def position_taken?(board, index)
     false
   # elsif index == "O" || index == "X"
   #   true
-elsif board[index] == "X" || board[index] == "O"
-    true
+# elsif board[index] == "X" || board[index] == "O"
+#     true
   end
 
 end
