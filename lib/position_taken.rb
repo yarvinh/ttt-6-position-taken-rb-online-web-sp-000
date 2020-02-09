@@ -10,4 +10,4 @@ def position_taken?(board, index)
   end
 
 end
-position_taken?(["","","","",""], 2)
+# position_taken?(["","","","",""], 2)
