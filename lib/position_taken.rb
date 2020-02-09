@@ -5,6 +5,8 @@ def position_taken?(board, index)
     false
   elsif board[index] == nil
     false
+  elsif board[index] == x || 0
   end
 
 end
+position_taken?(["","","","",""], 2)
