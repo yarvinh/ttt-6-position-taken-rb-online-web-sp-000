@@ -2,7 +2,7 @@
 def position_taken?(board, index)
   if board[index]
     false
-  elsif board[index == nil]
+  elsif board[nil]
     fase
   end
 end
