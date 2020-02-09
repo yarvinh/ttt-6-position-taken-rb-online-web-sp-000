@@ -4,6 +4,6 @@ def position_taken?(board, index)
     false
   #elsif index == x || o
     #true
-  #end
+  end
 
 end
