@@ -2,7 +2,6 @@
 def position_taken?(board, index)
   if board[index]
     false
-  elsif board[index]
+  elsif board[index] == x
   end
 end
-position_taken([" ","","",""],x)
